@@ -1,2 +1,2 @@
 # project-demo
-My first git Repo
+My first git Repository
